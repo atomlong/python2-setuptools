@@ -2,7 +2,6 @@ pkgbase = python2-setuptools
 	pkgdesc = Easily download, build, install, upgrade, and uninstall Python packages
 	pkgver = 44.1.1
 	pkgrel = 2
-	epoch = 2
 	url = https://pypi.org/project/setuptools/
 	arch = any
 	license = PSF

@@ -5,7 +5,6 @@
 pkgname=python2-setuptools
 pkgver=44.1.1
 pkgrel=2
-epoch=2
 pkgdesc="Easily download, build, install, upgrade, and uninstall Python packages"
 arch=('any')
 license=('PSF')
